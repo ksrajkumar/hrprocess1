@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  applicant: 
+  mandate: 
+  conducting_date: 2011-03-11
+  description: MyText
+
+two:
+  applicant: 
+  mandate: 
+  conducting_date: 2011-03-11
+  description: MyText

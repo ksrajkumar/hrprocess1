@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @mandate.name %>
+</p>
+
+<p>
+  <b>Company name:</b>
+  <%= @mandate.company_name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @mandate.description %>
+</p>
+
+
+<%= link_to 'Edit', edit_mandate_path(@mandate) %> |
+<%= link_to 'Back', mandates_path %>
